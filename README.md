@@ -1,14 +1,7 @@
-<h1>
-  Hey, I'm Khafid
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hey, I'm Khafid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img src="https://komarev.com/ghpvc/?username=khafidme&style=flat-square&color=blue" alt=""/>
 
-:man_technologist: About Me :
-I am a Frontend Web Developer from Yogyakarta, Indonesia.<br>
-:telescope: I’m Searching a job as a Frontend Web Developer contributing to building frontend web applications.<br>
-:seedling: I can work as a team using git and github.<br>
-:zap: In my free time, I read tech articles.<br>
+I am a Frontend Web Developer from Yogyakarta, Indonesia. Currently, I’m searching a job as a Frontend Web Developer. I can work as a team using git and github. In my free time, I read tech articles.<br>
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-khafid-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/mkhafid)
 
 ---
